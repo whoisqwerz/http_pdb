@@ -82,3 +82,8 @@ __pypackages__/
 .python-version
 
 .cache/
+
+*.o
+*.obj
+*.exe
+*.ilk
